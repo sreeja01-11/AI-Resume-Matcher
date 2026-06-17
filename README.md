@@ -2,7 +2,7 @@
 
 This project is an AI-powered recruitment tool designed to bridge the gap between job seekers and their ideal roles. Unlike traditional ATS systems that rely solely on exact keyword matching, this application utilizes Natural Language Processing (NLP) and Semantic Search to understand the context of a resume and compare it against a database of job descriptions.
 
-## 🚀 Key Features
+## Key Features
 
 * **Hybrid Ranking System:** Combines Semantic Similarity (70%) and Keyword Matching (30%) to provide a balanced and fair match score.
 * **Semantic Intelligence:** Uses the all-MiniLM-L6-v2 SBERT model to understand meaning beyond just keywords.
@@ -12,7 +12,7 @@ This project is an AI-powered recruitment tool designed to bridge the gap betwee
 * **Multi-format Support:** Seamlessly parses both .pdf and .docx resume files.
 * **Resume Optimization Tips:** Provides actionable advice on which skills to add to increase the match score for specific roles.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── data/
@@ -28,7 +28,7 @@ This project is an AI-powered recruitment tool designed to bridge the gap betwee
 └── requirements.txt          # Project dependencies
 ```
 
-## ⚙️ Functionalities
+##  Functionalities
 
 ### 1. Extraction & Cleaning (parser.py & processor.py)
 
@@ -49,7 +49,7 @@ To prevent "keyword stuffing" from gaming the system, the final score is a weigh
 * **Semantic Score (70%):** Measures overall contextual fit.
 * **Keyword Score (30%):** Measures specific technical requirement fulfillment.
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### User Upload
 
@@ -74,7 +74,7 @@ The Hybrid Ranker calculates a match percentage for every job.
 * Plotly charts show the distribution of match scores.
 * A "Missing Skills" chart highlights what the user should learn next.
 
-## 💡 Use Cases
+##  Use Cases
 
 ### For Job Seekers
 
@@ -88,7 +88,7 @@ Quickly rank a pool of candidates against a job description based on actual expe
 
 Visualize a student's skill distribution to help them pivot into new tech domains (e.g., from Frontend to DevOps).
 
-## 🛠️ Local Setup and Installation
+##  Local Setup and Installation
 
 Follow these steps to get the project running on your local machine:
 
@@ -125,7 +125,7 @@ streamlit run app.py
 
 Once the command runs, a local URL will be provided (usually http://localhost:8501). Open this in your web browser to start matching resumes!
 
-## 📊 Technologies Used
+##  Technologies Used
 
 * **Language:** Python
 * **Framework:** Streamlit
