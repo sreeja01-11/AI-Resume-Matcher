@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "Backend Developer",
+    "company": "TechStream Solutions",
+    "description": "We are looking for a Senior Backend Developer to join our core engineering team. You will be responsible for designing and implementing high-performance APIs and microservices using Python and Flask. The ideal candidate has deep experience with SQL and PostgreSQL database optimization. You will collaborate with frontend teams to deliver seamless user experiences. Strong understanding of Docker and AWS deployment pipelines is highly preferred. Join us to build scalable systems in a fast-paced environment where clean code and architectural integrity are prioritized.",
+    "skills": ["python", "flask", "sql", "postgresql", "docker", "aws"]
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",  
+    "company": "DataVibe Analytics",
+    "description": "Our analytics department is seeking a Data Scientist to transform raw data into actionable insights. You will build and deploy predictive models using Machine Learning and Deep Learning frameworks. Proficiency in Python and SQL is essential. The role involves cleaning large datasets, performing statistical analysis, and presenting findings to stakeholders. Experience with Natural Language Processing (NLP) or Computer Vision is a significant advantage. Help us drive business decisions through data-driven strategies and advanced modeling techniques in a collaborative, research-oriented environment.",
+    "skills": ["python", "machine learning", "deep learning", "sql", "nlp"]
+  },
+  {
+    "id": 3,
+    "title": "Frontend Developer",
+    "company": "PixelPerfect UI",
+    "description": "We are seeking a creative Frontend Developer to craft beautiful and responsive user interfaces. You will work primarily with React and Next.js to build dynamic web applications. A strong command of JavaScript and CSS is required. You will collaborate closely with UI/UX designers to translate wireframes into high-quality code. Experience with state management and API integration is key. We value developers who stay up-to-date with the latest web standards and possess a keen eye for detail and performance optimization.",
+    "skills": ["react", "next.js", "javascript", "css", "html"]
+  },
+  {
+    "id": 4,
+    "title": "Machine Learning Engineer",
+    "company": "NeuralNet Systems",
+    "description": "As a Machine Learning Engineer, you will bridge the gap between data science and software engineering. You will be responsible for scaling ML models and integrating them into production environments. Deep knowledge of Python and Deep Learning libraries is mandatory. You will work on optimizing model performance, managing CI/CD pipelines for ML, and handling large-scale data processing. The role requires a strong understanding of Computer Vision or reinforcement learning. Join our team to push the boundaries of AI-driven automation and intelligent system design.",
+    "skills": ["python", "machine learning", "deep learning", "computer vision", "ci/cd"]
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "CloudScale Infrastructure",
+    "description": "We are looking for a DevOps Engineer to manage and automate our cloud infrastructure. Your primary focus will be on maintaining CI/CD pipelines and managing containerized applications using Docker and Kubernetes. Extensive experience with AWS and infrastructure-as-code is required. You will ensure system reliability, monitor performance, and automate security protocols. The ideal candidate is passionate about developer productivity and system uptime. Help us scale our global operations while maintaining a high standard of automation and security across our cloud environments.",
+    "skills": ["ci/cd", "docker", "kubernetes", "aws", "python"]
+  },
+  {
+    "id": 6,
+    "title": "Full Stack Developer",
+    "company": "Nexus Web Works",
+    "description": "Join our versatile engineering team as a Full Stack Developer. You will handle both frontend and backend tasks, utilizing React for the UI and Node.js for the server-side logic. You should be comfortable working with SQL databases and designing RESTful APIs. The role involves end-to-end development, from architectural planning to deployment. Strong problem-solving skills and the ability to switch contexts between client and server are essential. We provide a collaborative environment where you can influence the entire product lifecycle.",
+    "skills": ["react", "node.js", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 7,
+    "title": "Data Analyst",
+    "company": "InsightFlow Group",
+    "description": "InsightFlow is hiring a Data Analyst to provide data-driven support for our marketing and operations teams. You will use SQL to query complex databases and Python to perform exploratory data analysis. The role requires creating compelling visualizations and dashboards to communicate trends to non-technical leaders. Accuracy and the ability to identify patterns in messy data are vital. You will work on cross-functional projects, ensuring that data integrity is maintained and that insights are translated into actionable business recommendations.",
+    "skills": ["sql", "python", "data visualization", "pandas"]
+  },
+  {
+    "id": 8,
+    "title": "Backend Developer",
+    "company": "FinTech Core",
+    "description": "Our FinTech team needs a Backend Developer with a focus on security and transaction reliability. You will develop robust back-end components using Java and Spring Boot. A strong understanding of SQL and data encryption is required to handle sensitive financial data. You will work on optimizing high-concurrency systems and ensuring low-latency processing. Collaboration with QA engineers and system architects is a daily part of the job. Join us to build the backbone of a secure and scalable financial platform used by millions.",
+    "skills": ["java", "sql", "spring boot", "docker"]
+  },
+  {
+    "id": 9,
+    "title": "Machine Learning Engineer",
+    "company": "Visionary AI",
+    "description": "Visionary AI is seeking an ML Engineer specializing in Computer Vision. You will develop and deploy image recognition and object detection models using Python and PyTorch. The role involves managing the full ML lifecycle, from data labeling and training to deployment in cloud environments. You should be comfortable working with large image datasets and optimizing models for mobile and web platforms. Help us innovate in the space of real-time video analysis and visual intelligence for retail and security applications.",
+    "skills": ["python", "machine learning", "computer vision", "aws"]
+  },
+  {
+    "id": 10,
+    "title": "DevOps Engineer",
+    "company": "Securitas Cloud",
+    "description": "We are searching for a DevOps professional with a strong security mindset. You will implement and maintain automated CI/CD workflows while ensuring all infrastructure is hardened against threats. Deep experience with Docker and AWS is expected. You will manage secrets, perform vulnerability scans, and automate patching processes. Our team values candidates who can integrate security into the development lifecycle without slowing down the release cycle. Help us build a resilient, secure, and highly available infrastructure for our enterprise clients.",
+    "skills": ["aws", "docker", "ci/cd", "kubernetes"]
+  },
+  {
+    "id": 11,
+    "title": "Data Scientist",
+    "company": "HealthMetrics AI",
+    "description": "HealthMetrics AI is looking for a Data Scientist to apply Machine Learning to healthcare outcomes. You will work with large medical datasets to predict patient risks and improve diagnosis accuracy. Proficiency in Python and statistical modeling is required. You will work closely with medical professionals to validate your models and ensure clinical relevance. Experience with Deep Learning or clinical trials data is a plus. Join us to make a real-world impact by improving the quality of healthcare through data science and intelligent modeling.",
+    "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+    "id": 12,
+    "title": "Frontend Developer",
+    "company": "BrightLight Media",
+    "description": "We are hiring a Frontend Developer to build high-performance web applications using React and TypeScript. You will be responsible for creating interactive components and ensuring cross-browser compatibility. Knowledge of JavaScript and modern CSS frameworks is a must. You will collaborate with the product team to implement user-centric features and optimize load times. We value developers who are passionate about UI animations and accessible design. Join our team to create engaging digital experiences for a global audience in the media industry.",
+    "skills": ["react", "javascript", "typescript", "css", "html"]
+  },
+  {
+    "id": 13,
+    "title": "Full Stack Developer",
+    "company": "UrbanApp Tech",
+    "description": "UrbanApp is seeking a Full Stack Developer to build our next-generation mobile-first web applications. You will work with React on the frontend and Node.js on the backend. Experience with SQL and cloud hosting is required. You will contribute to all phases of the software development lifecycle, including design, coding, testing, and maintenance. We are looking for someone who can solve complex problems and deliver high-quality, maintainable code. Join us in building tools that help city dwellers navigate and interact with their environments more efficiently.",
+    "skills": ["react", "node.js", "javascript", "sql", "aws"]
+  },
+  {
+    "id": 14,
+    "title": "Data Analyst",
+    "company": "RetailPulse Data",
+    "description": "Our retail intelligence firm needs a Data Analyst to interpret consumer behavior data. You will use Python and SQL to extract and process data from various sources. The role involves building dashboards to help retail managers optimize inventory and pricing. Strong communication skills are needed to explain complex data trends to stakeholders. You will work on predictive analytics to forecast demand and identify emerging market trends. Join us to help retailers make smarter, data-driven decisions that improve their bottom line and customer satisfaction.",
+    "skills": ["python", "sql", "data visualization", "excel"]
+  },
+  {
+    "id": 15,
+    "title": "Backend Developer",
+    "company": "OmniSystems",
+    "description": "OmniSystems is looking for a Backend Developer to join our enterprise software group. You will build scalable server-side applications using Java and Spring Boot. Familiarity with SQL and microservices architecture is essential. You will be responsible for ensuring high availability and performance of our business-critical systems. Collaboration with frontend developers and system administrators is crucial. We offer a stable environment where you can work on complex problems and contribute to long-term architectural decisions for high-traffic corporate applications.",
+    "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+    "id": 16,
+    "title": "Data Scientist",
+    "company": "AeroTech Analytics",
+    "description": "AeroTech is seeking a Data Scientist with a focus on predictive maintenance for aerospace systems. You will develop Machine Learning models to predict part failures and optimize flight schedules. Expertise in Python and statistical analysis is required. You will work with sensor data from aircraft and use Deep Learning to identify subtle patterns that indicate wear and tear. Your work will directly contribute to the safety and efficiency of air travel. Join us to apply your data science skills to some of the most challenging engineering problems in the world.",
+    "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+    "id": 17,
+    "title": "DevOps Engineer",
+    "company": "BluePrint Cloud",
+    "description": "Join BluePrint Cloud as a DevOps Engineer dedicated to platform automation. You will build and optimize CI/CD pipelines to support a high-velocity development team. Expertise in AWS, Docker, and Kubernetes is required. Your goal is to eliminate manual processes through automation and improve system observability. You will participate in on-call rotations and lead incident response for our cloud services. We value candidates who are constantly looking for ways to improve infrastructure efficiency and developer experience in a hybrid-cloud environment.",
+    "skills": ["ci/cd", "aws", "docker", "kubernetes", "terraform"]
+  },
+  {
+    "id": 18,
+    "title": "Frontend Developer",
+    "company": "VividUX Agency",
+    "description": "VividUX is a boutique design agency looking for a Frontend Developer who loves animation and interaction design. You will use React and JavaScript to bring our designers' visions to life. A mastery of CSS and modern layout techniques is essential. You will build pixel-perfect interfaces that work flawlessly across all devices. We are looking for someone who can push the boundaries of what's possible on the web while keeping accessibility in mind. Join us to work on diverse projects for high-profile clients in the fashion and luxury sectors.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 19,
+    "title": "Full Stack Developer",
+    "company": "GlobalEdu Systems",
+    "description": "Help us build the future of online education as a Full Stack Developer. You will use React and Node.js to create interactive learning platforms used by schools worldwide. Experience with SQL and real-time communication protocols (like WebSockets) is highly desired. You will be responsible for building both student-facing features and administrative tools. We are looking for a developer who is passionate about education and wants to build software that makes learning more accessible and engaging for everyone.",
+    "skills": ["react", "node.js", "javascript", "sql", "aws"]
+  },
+  {
+    "id": 20,
+    "title": "Machine Learning Engineer",
+    "company": "AutoDrive AI",
+    "description": "Join the AutoDrive team to work on the future of autonomous vehicles. As an ML Engineer, you will develop Deep Learning models for real-time perception and path planning. Deep knowledge of Python and Computer Vision is required. You will work on training models on massive datasets and optimizing them for deployment on edge devices. The role requires a high degree of mathematical proficiency and experience with sensor fusion. Join us to solve one of the most exciting and impactful challenges in modern technology.",
+    "skills": ["python", "machine learning", "deep learning", "computer vision"]
+  },
+  {
+      "id": 21,
+      "title": "Backend Developer",
+      "company": "FastAPI Tech",
+      "description": "We are seeking a Backend Developer to join our startup. You will lead the development of our main product's API using Python and FastAPI. The role requires expert knowledge of SQL and experience with Dockerized deployments. You will be responsible for system architecture and managing database migrations. This is a high-impact role where you will set the standard for backend development in the company. Join us to build a product from the ground up in an agile and innovative environment.",
+      "skills": ["python", "fastapi", "sql", "docker"]
+  },
+  {
+      "id": 22,
+      "title": "Data Analyst",
+      "company": "EcoLogic Metrics",
+      "description": "EcoLogic Metrics is looking for a Data Analyst to help us track environmental sustainability metrics. You will analyze large datasets related to energy consumption and carbon footprints using Python and SQL. Your task is to generate reports that help our clients reduce their environmental impact. Strong visualization skills are needed to present complex data to non-technical stakeholders. Join us to use your analytical skills for the betterment of the planet and contribute to a more sustainable future for businesses.",
+      "skills": ["python", "sql", "data visualization"]
+  },
+  {
+      "id": 23,
+      "title": "Frontend Developer",
+      "company": "SocialSphere",
+      "description": "SocialSphere is seeking a Frontend Developer to enhance our social networking platform. You will build user-facing features using React and Next.js. Expertise in JavaScript and modern CSS is essential for creating a smooth and engaging user experience. You will work with the product team to iterate on features based on user feedback. We are looking for someone who understands social media dynamics and can build high-performance web components that scale to millions of users.",
+      "skills": ["react", "next.js", "javascript", "css"]
+  },
+  {
+      "id": 24,
+      "title": "Full Stack Developer",
+      "company": "MarketPlace Pro",
+      "description": "Join MarketPlace Pro as a Full Stack Developer. You will be responsible for maintaining and expanding our e-commerce platform. Our stack includes React on the frontend and Node.js with SQL on the backend. Experience with payment integration and order management systems is a plus. You will work on everything from UI improvements to backend scaling challenges. We value self-starters who can take ownership of features and deliver high-quality code in a fast-paced retail environment.",
+      "skills": ["react", "node.js", "javascript", "sql"]
+  },
+  {
+      "id": 25,
+      "title": "Data Scientist",
+      "company": "CyberShield AI",
+      "description": "CyberShield is looking for a Data Scientist to apply AI to cybersecurity. You will develop Machine Learning models to detect network intrusions and fraudulent activities. Proficiency in Python and SQL is mandatory. You will work with massive log datasets and use Deep Learning to identify anomalous behavior. The role requires staying ahead of evolving cyber threats and constantly improving model accuracy. Join us to help protect digital assets and build the next generation of intelligent security systems.",
+      "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+      "id": 26,
+      "title": "DevOps Engineer",
+      "company": "Streamline Ops",
+      "description": "We are hiring a DevOps Engineer to improve our developer productivity and system reliability. You will be in charge of CI/CD pipeline automation and Kubernetes cluster management. Deep knowledge of AWS and Docker is required. Your work will focus on reducing build times, automating environment provisioning, and enhancing monitoring and alerting. We are looking for an automation enthusiast who wants to help our engineering teams ship code faster and more safely than ever before.",
+      "skills": ["ci/cd", "kubernetes", "aws", "docker"]
+  },
+  {
+      "id": 27,
+      "title": "Machine Learning Engineer",
+      "company": "SpeechWorks",
+      "description": "SpeechWorks is looking for an ML Engineer specializing in Natural Language Processing (NLP). You will work on improving our voice recognition and sentiment analysis tools using Python and Deep Learning libraries. The role involves processing large audio and text datasets and fine-tuning transformer models. Experience with speech-to-text or translation systems is a plus. Join our team to innovate in the field of human-computer interaction and build voice-enabled technologies that are used around the globe.",
+      "skills": ["python", "machine learning", "nlp", "deep learning"]
+  },
+  {
+      "id": 28,
+      "title": "Backend Developer",
+      "company": "SecureLogistics",
+      "description": "Our logistics company is seeking a Backend Developer to build tracking and fleet management systems. You will develop backend services using Java and Spring Boot, focusing on SQL database performance and scalability. You will collaborate with mobile developers to provide high-quality APIs for real-time tracking. Experience with GIS data or route optimization algorithms is a plus. Join us to help modernize the logistics industry through robust software and efficient data management in a mission-critical environment.",
+      "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+      "id": 29,
+      "title": "Frontend Developer",
+      "company": "AppCraft Studio",
+      "description": "AppCraft Studio is looking for a Frontend Developer to join our creative team. You will build web applications for various clients using React and JavaScript. Strong knowledge of CSS and responsive design is required. You will work in a fast-paced agency environment, moving between different projects and technologies. We value developers who are great communicators and can translate client requirements into beautiful, functional interfaces. Join us to work on a wide variety of digital products for brands around the world.",
+      "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+      "id": 30,
+      "title": "Full Stack Developer",
+      "company": "HealthFirst Hub",
+      "description": "HealthFirst Hub is seeking a Full Stack Developer to help us build telehealth applications. Our stack is React and Node.js with a strong focus on SQL for health records. You will work on building secure video consulting tools and patient management systems. Knowledge of healthcare privacy regulations (like HIPAA) is a major advantage. We are looking for a developer who wants to use their skills to improve the accessibility of healthcare services for patients and providers alike.",
+      "skills": ["react", "node.js", "javascript", "sql"]
+  },
+  {
+      "id": 31,
+      "title": "Data Analyst",
+      "company": "FinTrend Insights",
+      "description": "FinTrend is hiring a Data Analyst to support our financial research team. You will use SQL and Python to analyze market data and identify investment trends. The role involves creating high-impact reports and visualizations for our analysts and clients. You should have a strong interest in financial markets and the ability to explain complex numerical data simply. Join our team to help us stay ahead of market shifts through rigorous data analysis and clear, actionable insights for our investment strategies.",
+      "skills": ["sql", "python", "data visualization"]
+  },
+  {
+      "id": 32,
+      "title": "Backend Developer",
+      "company": "MicroScale Cloud",
+      "description": "MicroScale is looking for a Backend Developer focused on serverless and microservices architectures. You will develop cloud-native applications using Python and AWS Lambda. A strong understanding of SQL and Docker is required. You will be responsible for building scalable, event-driven backends that power high-traffic applications. Join our team to work with the latest cloud technologies and help us define the next generation of scalable, cost-effective infrastructure for our global customer base.",
+      "skills": ["python", "aws", "sql", "docker"]
+  },
+  {
+      "id": 33,
+      "title": "Data Scientist",
+      "company": "EnergyCore AI",
+      "description": "EnergyCore is seeking a Data Scientist to optimize energy distribution networks. You will develop Machine Learning models to forecast energy demand and identify inefficiencies in the grid. Expertise in Python and statistical modeling is required. You will work with time-series data and use Deep Learning to improve forecast accuracy. Help us build a more efficient and sustainable energy grid through advanced data science and predictive modeling. Join our mission to reduce energy waste through intelligent, data-driven management.",
+      "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+      "id": 34,
+      "title": "Frontend Developer",
+      "company": "StoreFront Web",
+      "description": "StoreFront is looking for a Frontend Developer specializing in e-commerce performance. You will build web stores using React and Next.js, with a heavy focus on speed and SEO. Expertise in JavaScript and modern CSS techniques is essential. You will work on optimizing product pages and checkout flows to increase conversion rates. Join us to build some of the fastest e-commerce sites on the web and help our clients grow their online businesses through superior user experiences.",
+      "skills": ["react", "next.js", "javascript", "css"]
+  },
+  {
+      "id": 35,
+      "title": "Full Stack Developer",
+      "company": "TravelMate",
+      "description": "TravelMate is looking for a Full Stack Developer to help us build the ultimate travel planning platform. You will work with React and Node.js, managing SQL databases and third-party travel APIs. The role involves building features like itinerary planners, social sharing, and real-time flight tracking. We are looking for an enthusiastic traveler and developer who wants to build tools that make exploring the world easier and more fun for everyone. Join us to shape the future of digital travel planning.",
+      "skills": ["react", "node.js", "javascript", "sql"]
+  },
+  {
+      "id": 36,
+      "title": "DevOps Engineer",
+      "company": "AutomateX",
+      "description": "AutomateX is seeking a DevOps Engineer to lead our infrastructure automation efforts. You will be responsible for CI/CD pipeline design and Kubernetes administration. Expertise in AWS and Docker is mandatory. You will work to empower our development teams by providing self-service infrastructure and robust deployment tools. Our goal is to achieve 100% automation across our production environments. Join us if you are passionate about DevOps culture and want to work at the forefront of cloud-native infrastructure automation and management.",
+      "skills": ["ci/cd", "kubernetes", "aws", "docker"]
+  },
+  {
+      "id": 37,
+      "title": "Machine Learning Engineer",
+      "company": "AdTech Core",
+      "description": "AdTech Core is hiring an ML Engineer to improve our ad targeting and bidding algorithms. You will develop Machine Learning models that process billions of events daily using Python and SQL. The role involves optimizing real-time bidding systems and enhancing user profiling using Deep Learning. Experience with high-throughput systems and large-scale data processing is essential. Join our team to work on massive datasets and solve complex optimization problems at the intersection of data science and software engineering.",
+      "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+      "id": 38,
+      "title": "Backend Developer",
+      "company": "DataSafe Tech",
+      "description": "DataSafe is seeking a Backend Developer to build secure data storage and encryption services. You will work with Java and Spring Boot, with a heavy focus on SQL database design and security protocols. The role involves building high-performance systems that protect sensitive enterprise information. Experience with cryptography or compliance standards is a plus. Join us to help build a more secure digital world through robust backend engineering and a commitment to data privacy and security for our global enterprise clients.",
+      "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+      "id": 39,
+      "title": "Frontend Developer",
+      "company": "DashBoard Pro",
+      "description": "DashBoard Pro is looking for a Frontend Developer with a talent for data visualization. You will build complex analytical dashboards using React and JavaScript. Expertise in CSS and visualization libraries (like D3.js or Recharts) is required. You will work with product managers and data scientists to turn complex metrics into clear, interactive charts. Join us to build tools that help executives and analysts make sense of their data and drive business strategy through intuitive, high-performance web-based visualization platforms.",
+      "skills": ["react", "javascript", "css", "data visualization"]
+  },
+  {
+      "id": 40,
+      "title": "Full Stack Developer",
+      "company": "EduBridge",
+      "description": "EduBridge is looking for a Full Stack Developer to join our mission of connecting students with mentors. You will use React and Node.js to build our mentorship platform. Experience with SQL and real-time chat integration is required. The role involves building profiles, matching algorithms, and video calling features. We are looking for a developer who is passionate about social impact and education. Join us to build a platform that helps the next generation of learners find the guidance they need to succeed.",
+      "skills": ["react", "node.js", "javascript", "sql"]
+  },
+  {
+      "id": 41,
+      "title": "Data Scientist",
+      "company": "MarketScope AI",
+      "description": "MarketScope is seeking a Data Scientist to improve our stock market prediction models. You will use Python and Deep Learning to analyze financial news and time-series data. Expertise in Machine Learning and SQL is mandatory. The role involves building sentiment analysis tools and trend forecasting models. You should be comfortable working with high-frequency data and performing rigorous back-testing of your models. Join our team to apply advanced data science to the world's most competitive markets and gain an edge through AI.",
+      "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+      "id": 42,
+      "title": "DevOps Engineer",
+      "company": "CloudNative Labs",
+      "description": "CloudNative Labs is hiring a DevOps Engineer to architect our next-gen platform infrastructure. You will be an expert in Kubernetes, Docker, and AWS. Your focus will be on building resilient, self-healing systems and implementing advanced CI/CD patterns like GitOps. We are looking for a visionary who can help us move beyond basic automation toward fully autonomous infrastructure. Join us to work on cutting-edge cloud technologies and help our clients adopt the latest and greatest in DevOps and platform engineering practices.",
+      "skills": ["ci/cd", "kubernetes", "aws", "docker"]
+  },
+  {
+      "id": 43,
+      "title": "Machine Learning Engineer",
+      "company": "BioGen AI",
+      "description": "BioGen AI is seeking an ML Engineer to help discover new medicines using AI. You will develop Machine Learning models to analyze molecular data and predict drug interactions. Proficiency in Python and Deep Learning is essential. You will work alongside biologists and chemists to interpret results and guide lab experiments. Experience with graph neural networks or reinforcement learning is a plus. Join us to apply your ML skills to the noble goal of finding life-saving treatments through data-driven drug discovery.",
+      "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+      "id": 44,
+      "title": "Backend Developer",
+      "company": "StreamEngine",
+      "description": "StreamEngine is looking for a Backend Developer to build high-concurrency video streaming services. You will use Go or Python to build services that handle millions of simultaneous users. Experience with SQL and Docker is required. The role involves optimizing data throughput and ensuring low-latency content delivery. Knowledge of video codecs or CDN management is a plus. Join our team to work on the engineering challenges behind large-scale digital entertainment and build a platform that powers the next generation of online streaming.",
+      "skills": ["python", "sql", "docker", "aws"]
+  },
+  {
+      "id": 45,
+      "title": "Frontend Developer",
+      "company": "InteractiveWeb",
+      "description": "InteractiveWeb is looking for a Frontend Developer who specializes in high-performance web graphics. You will build immersive web experiences using React and Three.js. Mastery of JavaScript and modern CSS is required. You will work on projects ranging from interactive product showcases to web-based games. We are looking for someone who can combine technical skill with artistic flair to create stunning visual experiences on the web. Join us to work at the intersection of design, technology, and interactive storytelling.",
+      "skills": ["react", "javascript", "css", "three.js"]
+  },
+  {
+      "id": 46,
+      "title": "Full Stack Developer",
+      "company": "FinFlow",
+      "description": "FinFlow is seeking a Full Stack Developer to join our personal finance app team. Our stack is React and Node.js with SQL for transaction management. You will work on building budget tracking, investment analysis, and bank integration features. Experience with financial data security is essential. We are looking for a developer who wants to help people take control of their finances through simple, powerful software. Join us to build tools that make personal finance management intuitive and accessible for everyone.",
+      "skills": ["react", "node.js", "javascript", "sql"]
+  },
+  {
+      "id": 47,
+      "title": "Data Analyst",
+      "company": "PollInsight",
+      "description": "PollInsight is hiring a Data Analyst to analyze public opinion and election data. You will use SQL and Python to process survey results and identify demographic trends. The role involves building predictive models for election outcomes and visualizing data for media clients. Strong communication and the ability to work under tight deadlines are essential. Join us to use your analytical skills to make sense of the public mood and provide accurate, data-driven insights into political and social trends around the world.",
+      "skills": ["sql", "python", "data visualization"]
+  },
+  {
+      "id": 48,
+      "title": "Backend Developer",
+      "company": "Legacy Modernizers",
+      "description": "Join Legacy Modernizers as a Backend Developer focused on migrating enterprise systems to the cloud. You will work with Java and Spring Boot to rebuild monoliths as microservices. Experience with SQL and Docker is essential. You will be responsible for maintaining data integrity during migrations and ensuring new services meet modern performance standards. Help our clients transition to the future of software by applying your backend expertise to transform old systems into modern, scalable cloud-native architectures.",
+      "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+      "id": 49,
+      "title": "Data Scientist",
+      "company": "UrbanFlow AI",
+      "description": "UrbanFlow is seeking a Data Scientist to improve traffic management in major cities. You will develop Machine Learning models to analyze sensor data and optimize traffic light patterns. Proficiency in Python and SQL is required. You will work with time-series and geospatial data to identify congestion bottlenecks. Your work will directly help reduce commute times and lower urban carbon emissions. Join our mission to make cities more livable and efficient through advanced data science and real-time traffic optimization technology.",
+      "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+      "id": 50,
+      "title": "Frontend Developer",
+      "company": "DesignHub",
+      "description": "DesignHub is looking for a Frontend Developer to build our next-generation collaborative design tool. You will use React and TypeScript to create a high-performance web application. Expertise in JavaScript and modern CSS is mandatory. You will work on building real-time collaboration features and complex canvas-based editing tools. We are looking for someone with a passion for building professional-grade tools that empower creative professionals. Join us to build the platform that designers around the world use to bring their ideas to life.",
+      "skills": ["react", "javascript", "typescript", "css"]
+  },
+  {
+    "id": 51,
+    "title": "Backend Developer",
+    "company": "AlphaCode Systems",
+    "description": "We are seeking a Backend Developer to join our fintech team. You will focus on building robust APIs using Python and Flask, with a strong emphasis on SQL optimization. Experience with Docker and AWS is crucial as we scale our services globally. You will handle complex data structures and ensure high security for transaction processing. Join a team where quality code and scalability are the foundation of everything we build.",
+    "skills": ["python", "flask", "sql", "docker", "aws"]
+  },
+  {
+    "id": 52,
+    "title": "Data Scientist",
+    "company": "Quant Analytics",
+    "description": "Join Quant Analytics as a Data Scientist focusing on consumer behavior. You will utilize Python and Machine Learning to create predictive models that drive marketing strategies. SQL proficiency is required to extract insights from our massive datasets. Deep Learning experience is a plus. You will work cross-functionally to turn complex data into clear, actionable business recommendations that impact our bottom line directly.",
+    "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+    "id": 53,
+    "title": "Frontend Developer",
+    "company": "Canvas Creative",
+    "description": "Canvas Creative is looking for a Frontend Developer to build interactive digital galleries. Expertise in React and JavaScript is essential. You should be highly skilled in CSS for creating responsive, pixel-perfect designs. Familiarity with HTML5 and web performance optimization is required. We value developers who bridge the gap between design and engineering, creating seamless user experiences that delight our global audience of art enthusiasts.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 54,
+    "title": "Machine Learning Engineer",
+    "company": "Cognito AI",
+    "description": "Cognito AI is hiring an ML Engineer to specialize in computer vision. You will develop models for real-time image processing using Python and Deep Learning libraries. The role involves managing the full ML lifecycle, from data ingestion to model deployment using CI/CD. Help us build autonomous systems that understand the world around them. Experience with PyTorch or TensorFlow is required. Join us to innovate in a research-driven, fast-paced AI lab.",
+    "skills": ["python", "machine learning", "deep learning", "computer vision", "ci/cd"]
+  },
+  {
+    "id": 55,
+    "title": "DevOps Engineer",
+    "company": "CloudNative Inc",
+    "description": "We need a DevOps Engineer to revolutionize our deployment infrastructure. You will be responsible for Kubernetes orchestration, Docker containerization, and AWS cloud management. A strong focus on CI/CD automation is required to support our high-velocity development teams. Python scripting skills are essential for automating routine tasks. Join us to build a resilient, scalable, and fully automated platform that handles millions of requests daily.",
+    "skills": ["kubernetes", "docker", "aws", "ci/cd", "python"]
+  },
+  {
+    "id": 56,
+    "title": "Full Stack Developer",
+    "company": "GreenField Tech",
+    "description": "GreenField Tech is seeking a Full Stack Developer to build sustainable energy platforms. You will work with Node.js on the backend and React on the frontend. Proficiency in SQL and modern JavaScript is mandatory. You will own features from conception to deployment, ensuring high performance across the stack. We offer a chance to work on meaningful projects that contribute to a greener future through innovative software solutions.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 57,
+    "title": "Data Analyst",
+    "company": "Insight Partners",
+    "description": "Insight Partners is looking for a Data Analyst to provide strategic insights into market trends. You will use SQL and Python for data mining and statistical analysis. The role requires building dashboards with modern data visualization tools to communicate findings to executive leadership. Accuracy and a deep curiosity for data are vital. Join our team to help drive the future of data-driven investment strategies in a collaborative environment.",
+    "skills": ["sql", "python", "data visualization"]
+  },
+  {
+    "id": 58,
+    "title": "Backend Developer",
+    "company": "SecureGate Fin",
+    "description": "SecureGate is hiring a Backend Developer to build high-security financial gateways. You will use Java and Spring Boot to develop scalable, mission-critical systems. SQL knowledge is essential for managing complex transaction logs. You will collaborate with security experts to implement encryption protocols and ensure compliance with global standards. We value clean architecture, unit testing, and a proactive approach to system reliability and performance.",
+    "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+    "id": 59,
+    "title": "Data Scientist",
+    "company": "BioData Labs",
+    "description": "BioData Labs is looking for a Data Scientist to advance genomics research. You will use Python and Machine Learning to analyze complex biological datasets. SQL proficiency is needed for data retrieval, and Deep Learning skills are preferred for pattern recognition in genetic sequences. Work alongside leading scientists to solve some of the most challenging problems in modern medicine. Join us to make a lasting impact on human health through data science.",
+    "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+    "id": 60,
+    "title": "Frontend Developer",
+    "company": "Nova Web Studio",
+    "description": "Nova Web Studio is seeking a Frontend Developer to craft modern e-commerce experiences. You will specialize in Next.js and React to build fast, SEO-friendly storefronts. Proficiency in JavaScript and CSS is required. You will work closely with designers to implement fluid animations and intuitive navigation. We are looking for someone who stays current with web standards and prioritizes accessibility and performance in every line of code they write.",
+    "skills": ["next.js", "react", "javascript", "css", "html"]
+  },
+  {
+    "id": 61,
+    "title": "Full Stack Developer",
+    "company": "Syncro Systems",
+    "description": "Syncro Systems is hiring a Full Stack Developer for our enterprise collaboration suite. You will work with Node.js and SQL on the backend and React on the frontend. We value developers who understand the importance of end-to-end testing and maintainable code. The role involves building real-time features and optimizing database queries for high concurrency. Join us to build the tools that empower modern teams to work together effectively from anywhere in the world.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 62,
+    "title": "Data Analyst",
+    "company": "TrendSetters Data",
+    "description": "Join TrendSetters as a Data Analyst focusing on social media metrics. You will utilize Python and SQL to analyze engagement and reach. Your insights will directly inform content strategy for major global brands. Strong data visualization skills are essential to make complex findings accessible to marketing teams. We are looking for an analytical thinker who can spot patterns in chaotic data and provide clear, strategic direction based on those observations.",
+    "skills": ["python", "sql", "data visualization"]
+  },
+  {
+    "id": 63,
+    "title": "Machine Learning Engineer",
+    "company": "Orbit AI",
+    "description": "Orbit AI is seeking an ML Engineer to develop NLP models for automated customer support. You will build and fine-tune models using Python and Deep Learning frameworks. The role requires experience in deploying models at scale with CI/CD pipelines. Work on cutting-edge transformer architectures to improve chat bot accuracy and response time. We offer an environment where experimentation is encouraged and your work will be used by millions of customers daily.",
+    "skills": ["python", "machine learning", "deep learning", "nlp", "ci/cd"]
+  },
+  {
+    "id": 64,
+    "title": "DevOps Engineer",
+    "company": "Reliant Ops",
+    "description": "Reliant Ops is looking for a DevOps Engineer to manage our hybrid-cloud infrastructure. You will focus on AWS, Kubernetes, and Docker to ensure high availability and disaster recovery. Expertise in Python for automation and CI/CD for delivery is required. We are looking for someone who treats infrastructure as code and is passionate about system observability and monitoring. Help us build a platform that our developers and customers can rely on 24/7.",
+    "skills": ["aws", "kubernetes", "docker", "python", "ci/cd"]
+  },
+  {
+    "id": 65,
+    "title": "Backend Developer",
+    "company": "HyperLink Tech",
+    "description": "HyperLink Tech is seeking a Backend Developer for our messaging platform. You will build highly concurrent services using Python and Flask. SQL expertise is needed for managing large-scale user data. Experience with Docker and AWS is essential for our distributed architecture. You will focus on message delivery speed, data consistency, and system resilience. Join a fast-growing company where your work directly impacts the communication of users across the globe every single day.",
+    "skills": ["python", "flask", "sql", "docker", "aws"]
+  },
+  {
+    "id": 66,
+    "title": "Data Scientist",
+    "company": "GreenLogic AI",
+    "description": "GreenLogic is hiring a Data Scientist to optimize resource distribution. You will use Python and Machine Learning to forecast demand and reduce waste. SQL proficiency is required for data preparation. Your role will involve developing innovative algorithms that balance efficiency with sustainability. Join a mission-driven company where your analytical skills help tackle environmental challenges. We provide the data and the platform; you provide the insights to build a more sustainable world.",
+    "skills": ["python", "machine learning", "sql"]
+  },
+  {
+    "id": 67,
+    "title": "Frontend Developer",
+    "company": "EvoUI Agency",
+    "description": "EvoUI is looking for a Frontend Developer to join our design-forward agency. You will build bespoke web applications using React and JavaScript. Mastery of CSS and HTML is expected to bring complex designs to life. We value developers who have a strong sense of typography, spacing, and motion. You will work on diverse projects for high-profile clients, ensuring every interface is responsive, accessible, and high-performing on all devices.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 68,
+    "title": "Machine Learning Engineer",
+    "company": "DeepSight Vision",
+    "description": "DeepSight is hiring an ML Engineer specializing in medical imaging. You will build and train computer vision models using Python and Deep Learning. The role involves working with large medical datasets and ensuring model reliability for clinical use. Knowledge of CI/CD for ML is required to maintain our production models. Join a team of dedicated engineers and doctors to build AI that saves lives through earlier and more accurate disease detection.",
+    "skills": ["python", "machine learning", "deep learning", "computer vision", "ci/cd"]
+  },
+  {
+    "id": 69,
+    "title": "DevOps Engineer",
+    "company": "ScaleUp Systems",
+    "description": "ScaleUp Systems needs a DevOps Engineer to manage our rapid growth. You will be an expert in AWS, Docker, and Kubernetes. Your primary goal is to optimize our CI/CD pipelines to support dozens of deployments per day. Strong Python skills are needed for building internal tools. We offer a challenging environment where you will solve complex networking, storage, and scaling issues for a platform that is expanding its global footprint every month.",
+    "skills": ["aws", "docker", "kubernetes", "python", "ci/cd"]
+  },
+  {
+    "id": 70,
+    "title": "Full Stack Developer",
+    "company": "WebFlow Pro",
+    "description": "WebFlow Pro is seeking a Full Stack Developer for our content management platform. You will work with Node.js and React to build intuitive, powerful editing tools. Proficiency in SQL and modern CSS is required. We are looking for someone who can think about the entire user journey, from backend performance to frontend interactivity. Join us to empower creators with the best web building tools available, working in a collaborative and highly technical team.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 71,
+    "title": "Data Analyst",
+    "company": "StatFlow Group",
+    "description": "StatFlow is hiring a Data Analyst to provide insights into operational efficiency. You will use SQL and Python to analyze internal workflows and identify bottlenecks. The role requires creating data visualizations that help managers make informed decisions. We value accuracy, clear communication, and the ability to translate technical findings into business value. Join our operations team to help us streamline our processes and drive efficiency through data-driven analysis and reporting.",
+    "skills": ["sql", "python", "data visualization"]
+  },
+  {
+    "id": 72,
+    "title": "Backend Developer",
+    "company": "CoreLogic Apps",
+    "description": "CoreLogic is seeking a Backend Developer for our enterprise portal. You will use Java and Spring Boot to develop secure, high-performance backends. SQL proficiency is required for complex reporting and data management. You will work on integrating various third-party services and maintaining legacy systems while we migrate to a microservices architecture. We offer a stable, professional environment where long-term code quality and system stability are highly valued by the entire engineering organization.",
+    "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+    "id": 73,
+    "title": "Data Scientist",
+    "company": "MindBridge AI",
+    "description": "MindBridge is looking for a Data Scientist to apply Machine Learning to cognitive research. You will use Python and SQL to analyze neuroimaging data and behavioral metrics. Deep Learning experience is preferred for modeling complex brain patterns. Work in a multidisciplinary team of scientists and engineers to unlock the mysteries of the human mind. Join us to contribute to groundbreaking research that has the potential to change how we understand intelligence and mental health.",
+    "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+    "id": 74,
+    "title": "Frontend Developer",
+    "company": "Spark Interactive",
+    "description": "Spark Interactive is hiring a Frontend Developer to build engaging educational games. You will use React and JavaScript to create interactive learning modules. Proficiency in CSS and HTML5 is required for responsive, child-friendly designs. We value creativity and a passion for education. You will work closely with educators and illustrators to build the future of online learning. Help us make education fun and accessible for children everywhere through high-quality web development and creative engineering.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 75,
+    "title": "Full Stack Developer",
+    "company": "OmniChannel",
+    "description": "OmniChannel is seeking a Full Stack Developer for our retail management suite. You will work across the stack with Node.js, React, and SQL. The role involves building inventory tracking, point-of-sale integrations, and customer loyalty modules. We are looking for a generalist who enjoys solving a wide variety of problems and can deliver polished features from front to back. Join our team to build the software that helps brick-and-mortar retailers compete in the digital age.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 76,
+    "title": "Data Analyst",
+    "company": "LogiData Insights",
+    "description": "LogiData is looking for a Data Analyst to optimize supply chain routes. You will use SQL and Python to analyze delivery times and cost data. Your task is to build visualizations that highlight inefficiencies and suggest improvements. We value candidates who are comfortable with geospatial data and have a knack for finding stories in complex numbers. Join our logistics team to help us build a faster, more efficient delivery network through the power of data analysis.",
+    "skills": ["sql", "python", "data visualization"]
+  },
+  {
+    "id": 77,
+    "title": "Machine Learning Engineer",
+    "company": "SoundBot AI",
+    "description": "SoundBot is hiring an ML Engineer specializing in audio processing. You will use Python and Deep Learning to build speech recognition and music recommendation systems. Experience with NLP and CI/CD for ML is preferred. Work on training large-scale models and optimizing them for real-time inference on edge devices. We offer a chance to work at the intersection of music, technology, and AI, building products that change how the world listens to sound and interacts with voice.",
+    "skills": ["python", "machine learning", "deep learning", "nlp", "ci/cd"]
+  },
+  {
+    "id": 78,
+    "title": "DevOps Engineer",
+    "company": "Infinite Scale",
+    "description": "Infinite Scale is seeking a DevOps Engineer to automate our global cloud footprint. You will be an expert in AWS, Kubernetes, and Docker. Your focus will be on building resilient, multi-region architectures and automated recovery systems. Python skills are required for custom automation tools. Join a team where reliability is the first priority and 'automate everything' is the motto. We offer a highly technical environment where you can work with the latest cloud-native tools at a massive scale.",
+    "skills": ["aws", "kubernetes", "docker", "python", "ci/cd"]
+  },
+  {
+    "id": 79,
+    "title": "Backend Developer",
+    "company": "DataHub Central",
+    "description": "DataHub Central is seeking a Backend Developer to build data ingestion services. You will use Python and Flask to develop high-throughput pipelines. SQL proficiency is required for data transformation and storage. Experience with Docker and AWS is essential for our cloud-based architecture. You will work on ensuring data reliability, latency management, and system scalability. Join a core data team where your work enables the entire company's analytics and machine learning efforts through robust and reliable backend engineering.",
+    "skills": ["python", "flask", "sql", "docker", "aws"]
+  },
+  {
+    "id": 80,
+    "title": "Data Scientist",
+    "company": "FuturePath AI",
+    "description": "FuturePath is looking for a Data Scientist to forecast career trends. You will use Python and Machine Learning to analyze labor market data and educational trends. SQL is required for data cleaning and preparation. Deep Learning skills are preferred for text analysis of job descriptions. Help us build a platform that guides students and professionals toward the skills of the future. Join a mission-driven team where data science directly impacts people's career paths and lifelong learning opportunities.",
+    "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+    "id": 81,
+    "title": "Frontend Developer",
+    "company": "GlowUI Tech",
+    "description": "GlowUI is hiring a Frontend Developer specializing in high-performance dashboards. You will build complex analytical tools using React and JavaScript. Mastery of CSS and HTML is required for creating clear, data-heavy interfaces that remain responsive and fast. You will work closely with UX researchers to ensure that our tools are intuitive for professional analysts. Join us to build the interfaces that help thousands of businesses make sense of their complex operational data every day.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 82,
+    "title": "Full Stack Developer",
+    "company": "ConnectX",
+    "description": "ConnectX is seeking a Full Stack Developer for our networking platform. You will work across the stack with Node.js, React, and SQL. We are looking for someone who loves building social features like messaging, group feeds, and notification systems. Experience with real-time web technologies is a plus. Join our team to build a platform that connects professionals and hobbyists around shared interests, focusing on high performance, scalability, and a smooth user experience from front to back.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 83,
+    "title": "Data Analyst",
+    "company": "MarketMetrics",
+    "description": "MarketMetrics is hiring a Data Analyst to provide market research insights. You will use SQL and Python for data analysis and reporting. The role requires building dashboards with modern data visualization tools to communicate market share and competitor trends. We value candidates with strong business acumen and the ability to explain 'the why' behind the numbers. Join us to help our clients navigate competitive markets through clear, data-driven analysis and strategic reporting.",
+    "skills": ["sql", "python", "data visualization"]
+  },
+  {
+    "id": 84,
+    "title": "Machine Learning Engineer",
+    "company": "Sensei AI",
+    "description": "Sensei AI is seeking an ML Engineer specializing in reinforcement learning. You will use Python and Deep Learning to build intelligent agents for gaming and simulation. Knowledge of Computer Vision and CI/CD for ML is required. Work in a cutting-edge research lab where your models are tested against the best in the world. We offer a highly academic and innovative environment where you can push the boundaries of what AI agents can achieve in complex, dynamic environments.",
+    "skills": ["python", "machine learning", "deep learning", "computer vision", "ci/cd"]
+  },
+  {
+    "id": 85,
+    "title": "DevOps Engineer",
+    "company": "CloudReady",
+    "description": "CloudReady is looking for a DevOps Engineer to help our clients migrate to AWS. You will be an expert in Kubernetes, Docker, and CI/CD. Your role involves designing and implementing migration paths that ensure minimal downtime and maximum scalability. Python skills are needed for automation. Join our consulting team to work on a variety of infrastructure challenges for companies of all sizes, helping them adopt the best practices of modern, cloud-native DevOps and platform engineering.",
+    "skills": ["aws", "kubernetes", "docker", "python", "ci/cd"]
+  },
+  {
+    "id": 86,
+    "title": "Backend Developer",
+    "company": "BaseLayer Tech",
+    "description": "BaseLayer is seeking a Backend Developer for our core infrastructure team. You will use Java and Spring Boot to build high-performance distributed systems. SQL proficiency is required for database design and optimization. You will work on the underlying services that power our entire product suite, focusing on latency, reliability, and security. We value deep technical curiosity and a commitment to building robust, long-lasting systems that can scale with our rapidly growing user base.",
+    "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+    "id": 87,
+    "title": "Data Scientist",
+    "company": "ClimateCast",
+    "description": "ClimateCast is hiring a Data Scientist to build predictive climate models. You will use Python and Machine Learning to analyze historical weather patterns and environmental data. SQL is required for data preparation. Deep Learning experience is preferred for processing high-resolution atmospheric datasets. Join our mission to provide accurate, actionable climate insights to governments and organizations around the world. We offer a chance to use your data science skills for one of the most important challenges of our time.",
+    "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+    "id": 88,
+    "title": "Frontend Developer",
+    "company": "Visionary Web",
+    "description": "Visionary Web is seeking a Frontend Developer to build next-generation immersive websites. You will use React and JavaScript to create high-end digital experiences. Mastery of CSS and HTML is required for pixel-perfect implementation of creative designs. We value developers who are experimental and love trying new web technologies. You will work in a fast-paced, highly creative environment where design is prioritized. Join us to build the websites that win awards and set the trends for the entire industry.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 89,
+    "title": "Full Stack Developer",
+    "company": "LaunchPad Tech",
+    "description": "LaunchPad is looking for a Full Stack Developer to help us build internal tools for startups. You will work with Node.js, React, and SQL. We are looking for a rapid prototyper who can take an idea and build a working version in days. You will work on everything from project management tools to automated marketing platforms. Join our team to work with a diverse set of startups and technologies, building the tools that help the next generation of entrepreneurs launch and grow their companies.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 90,
+    "title": "Data Analyst",
+    "company": "SalesForce Metrics",
+    "description": "SalesForce Metrics is hiring a Data Analyst to optimize sales pipelines. You will use SQL and Python to analyze leads, conversions, and churn. The role requires building dashboards that provide real-time feedback to sales teams. We value candidates who can identify the specific factors that lead to successful sales and communicate those insights clearly. Join our team to help us build a more efficient, data-driven sales organization through rigorous analysis and insightful, actionable reporting.",
+    "skills": ["sql", "python", "data visualization"]
+  },
+  {
+    "id": 91,
+    "title": "Machine Learning Engineer",
+    "company": "AIVoice Tech",
+    "description": "AIVoice is seeking an ML Engineer specializing in speech synthesis. You will use Python and Deep Learning to build natural-sounding AI voices. Experience with NLP and CI/CD for ML is required. Work on training large generative models and optimizing them for real-time speech production. We offer a chance to work at the leading edge of generative AI, building the voices for next-gen virtual assistants, audiobooks, and video games in a fast-paced, high-innovation research and development team.",
+    "skills": ["python", "machine learning", "deep learning", "nlp", "ci/cd"]
+  },
+  {
+    "id": 92,
+    "title": "DevOps Engineer",
+    "company": "PlatformOne",
+    "description": "PlatformOne is seeking a DevOps Engineer to build our internal developer platform. You will be an expert in AWS, Kubernetes, and Docker. Your focus will be on creating a 'golden path' for developers that abstracts away infrastructure complexity while maintaining high standards for security and reliability. Python skills are needed for building custom CLI tools and controllers. Join us to help us build the platform that powers all other development at the company, prioritizing developer experience and system stability.",
+    "skills": ["aws", "kubernetes", "docker", "python", "ci/cd"]
+  },
+  {
+    "id": 93,
+    "title": "Backend Developer",
+    "company": "TransactionBase",
+    "description": "TransactionBase is seeking a Backend Developer for our high-frequency payment system. You will use Java and Spring Boot to develop secure, low-latency services. SQL proficiency is required for transaction management and auditing. You will work on the core processing engine that handles thousands of transactions per second. We value candidates who have a deep understanding of concurrency, transactional integrity, and high-availability architecture. Join us to build the secure foundation of modern digital commerce.",
+    "skills": ["java", "spring boot", "sql", "docker"]
+  },
+  {
+    "id": 94,
+    "title": "Data Scientist",
+    "company": "SocialInsights AI",
+    "description": "SocialInsights is looking for a Data Scientist to analyze social media influence. You will use Python and Machine Learning to model how ideas spread across networks. SQL is required for data preparation from massive social graphs. Deep Learning experience is preferred for sentiment and image analysis. Help us understand the dynamics of online discourse and brand sentiment. Join a team where your work provides deep insights into human behavior and the digital public square at an unprecedented scale.",
+    "skills": ["python", "machine learning", "sql", "deep learning"]
+  },
+  {
+    "id": 95,
+    "title": "Frontend Developer",
+    "company": "EcomFast",
+    "description": "EcomFast is hiring a Frontend Developer specializing in mobile-first e-commerce. You will build high-performance storefronts using React and JavaScript. Mastery of CSS and HTML is required for creating fast, responsive shopping experiences. You will work closely with performance engineers to ensure our sites load in under a second. Join our team to build the shopping experiences of the future, focusing on speed, accessibility, and conversion optimization for a global audience of mobile shoppers.",
+    "skills": ["react", "javascript", "css", "html"]
+  },
+  {
+    "id": 96,
+    "title": "Full Stack Developer",
+    "company": "EventPulse",
+    "description": "EventPulse is seeking a Full Stack Developer for our real-time event management platform. You will work across the stack with Node.js, React, and SQL. We are looking for someone who loves building live features like real-time polling, Q&A, and interactive schedules. Experience with WebSockets and high-concurrency event handling is a plus. Join our team to build the tools that power major conferences and concerts worldwide, focusing on reliability and a seamless live user experience.",
+    "skills": ["node.js", "react", "javascript", "sql", "html", "css"]
+  },
+  {
+    "id": 97,
+    "title": "Data Analyst",
+    "company": "SurveyForce",
+    "description": "SurveyForce is hiring a Data Analyst to provide insights into customer satisfaction. You will use SQL and Python to analyze survey results and identify key drivers of loyalty and churn. The role requires building dashboards that provide actionable feedback to customer success teams. We value accuracy and the ability to find subtle trends in customer feedback data. Join our team to help us build a more customer-centric company through rigorous analysis and clear, data-driven reporting on customer sentiment.",
+    "skills": ["sql", "python", "data visualization"]
+  },
+  {
+    "id": 98,
+    "title": "Machine Learning Engineer",
+    "company": "AutoNLP",
+    "description": "AutoNLP is seeking an ML Engineer specializing in automated document processing. You will use Python and Deep Learning to build systems that extract information from unstructured text. Experience with NLP and CI/CD for ML is required. Work on training large-scale language models and optimizing them for accuracy and speed in enterprise environments. We offer a chance to work at the leading edge of NLP, building tools that automate complex business processes and turn text into structured data at scale.",
+    "skills": ["python", "machine learning", "deep learning", "nlp", "ci/cd"]
+  },
+  {
+    "id": 99,
+    "title": "DevOps Engineer",
+    "company": "SecureDeploy",
+    "description": "SecureDeploy is seeking a DevOps Engineer to build secure CI/CD pipelines. You will be an expert in AWS, Kubernetes, and Docker. Your focus will be on integrating security scans, compliance checks, and automated patching into the software delivery process. Python skills are needed for custom security automation. Join us to help our clients ship code that is both fast and secure, prioritizing 'DevSecOps' practices and system hardened for the most demanding enterprise security requirements.",
+    "skills": ["aws", "kubernetes", "docker", "python", "ci/cd"]
+  },
+  {
+    "id": 100,
+    "title": "Backend Developer",
+    "company": "ServiceGrid",
+    "description": "ServiceGrid is seeking a Backend Developer for our service mesh team. You will use Go or Java to build high-performance networking and observability tools for microservices. SQL proficiency is required for metadata management. You will work on the underlying communication layer that powers massive distributed systems, focusing on service discovery, load balancing, and security. We value deep systems knowledge and a commitment to building reliable, high-performance infrastructure that simplifies the management of complex microservices architectures.",
+    "skills": ["java", "sql", "docker", "kubernetes"]
+  }
+]

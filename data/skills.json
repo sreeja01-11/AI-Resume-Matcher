@@ -1,0 +1,107 @@
+{
+  "skills": {
+    "programming_languages": [
+      "python", "java", "javascript", "typescript", "c", "c++", "c#",
+      "go", "rust", "kotlin", "swift", "ruby", "php", "scala", "r"
+    ],
+
+    "backend_development": [
+      "nodejs", "express", "django", "flask", "fastapi",
+      "spring", "spring boot", "laravel", "grpc",
+      "microservices", "kafka", "rabbitmq"
+    ],
+
+    "frontend_development": [
+      "react", "angular", "vue", "nextjs", "html", "css",
+      "sass", "tailwind", "bootstrap", "redux",
+      "jquery", "webrtc", "playwright", "cypress"
+    ],
+
+    "databases": [
+      "sql", "mysql", "postgresql", "mongodb", "sqlite",
+      "redis", "cassandra", "elasticsearch", "dynamodb",
+      "neo4j", "oracle", "firebase", "snowflake", "bigquery"
+    ],
+
+    "cloud_computing": [
+      "aws", "azure", "gcp", "s3", "ec2", "lambda",
+      "cloudformation", "terraform", "serverless",
+      "digitalocean", "heroku"
+    ],
+
+    "devops": [
+      "docker", "kubernetes", "jenkins", "git", "github",
+      "gitlab", "ci/cd", "ansible", "linux", "bash",
+      "nginx", "prometheus", "grafana"
+    ],
+
+    "data_science": [
+      "pandas", "numpy", "matplotlib", "seaborn", "scipy",
+      "jupyter", "tableau", "power bi", "spark",
+      "hadoop", "airflow", "dbt",
+      "data analysis", "data visualization", "statistics"
+    ],
+
+    "machine_learning": [
+      "machine learning", "deep learning",
+      "scikit-learn", "tensorflow", "pytorch",
+      "keras", "xgboost", "opencv",
+      "computer vision", "nlp",
+      "mlflow", "jax", "cuda", "ray",
+      "feature engineering", "model deployment"
+    ],
+
+    "generative_ai": [
+      "llm", "generative ai",
+      "transformers", "huggingface",
+      "langchain", "llamaindex",
+      "chromadb", "pinecone",
+      "rag", "prompt engineering",
+      "agentic ai", "openai api",
+      "stable diffusion"
+    ],
+
+    "computer_science_fundamentals": [
+      "dsa", "data structures",
+      "algorithms", "problem solving",
+      "oop", "object oriented programming",
+      "operating systems",
+      "computer networks",
+      "dbms",
+      "system design"
+    ]
+  },
+
+  "aliases": {
+    "js": "javascript",
+    "reactjs": "react",
+    "react.js": "react",
+    "node": "nodejs",
+    "node.js": "nodejs",
+    "postgres": "postgresql",
+    "tf": "tensorflow",
+    "sklearn": "scikit-learn",
+    "genai": "generative ai",
+    "hf": "huggingface",
+    "cv": "computer vision",
+    "powerbi": "power bi",
+    "next.js": "nextjs"
+  },
+
+  "metadata": {
+    "version": "2.0",
+    "description": "Technical skill taxonomy for AI Resume Matcher",
+    "categories": [
+      "programming_languages",
+      "backend_development",
+      "frontend_development",
+      "databases",
+      "cloud_computing",
+      "devops",
+      "data_science",
+      "machine_learning",
+      "generative_ai",
+      "computer_science_fundamentals"
+    ]
+  }
+}

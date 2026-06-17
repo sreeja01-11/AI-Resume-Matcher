@@ -1,0 +1,8 @@
+pdfplumber
+python-docx
+sentence-transformers
+scikit-learn
+streamlit
+pandas
+nltk
+plotly
